@@ -66,7 +66,7 @@ Analysing user profiles and viewership patterns for a streaming platform. Focuse
 
 <p>
   <a href="https://tshego-analyst.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/linkedin.com/in/tshegofatso-l-senona-946a69237">💼 LinkedIn</a>
+  <a href="https://(https://www.linkedin.com/in/tshegofatso-l-senona-946a69237/)">💼 LinkedIn</a>
 </p>
 
 <br/>
