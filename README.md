@@ -35,7 +35,7 @@ I love digging into messy datasets, asking the right questions, and building das
 ## 📁 Featured Projects
 
 ### ☕ Bright Coffee Shop — Sales Analysis
->MIRO • SQL • Excel  • MIRO
+>MIRO • SQL(Databricks) • Excel • MIRO
 
 End-to-end sales analysis for a fictional coffee brand. Explored transaction data in Databricks using SQL, built an Excel dashboard, and presented insights in a CEO-level deck.
 
@@ -44,7 +44,7 @@ End-to-end sales analysis for a fictional coffee brand. Explored transaction dat
 ---
 
 ### 📺 BrightTV — Media & Viewership Analytics *(In Progress)*
->MIRO•  Databrcks • Excel • Locker Studio • 
+>MIRO• SQL(Databricks) • Excel • Looker Studio • 
 
 Analysing user profiles and viewership patterns for a streaming platform. Focused on audience behaviour, content performance, and retention trends.
 
