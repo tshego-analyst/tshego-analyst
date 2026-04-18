@@ -7,7 +7,7 @@
 <!-- About Me -->
 ## 🌟 About Me
 
-I'm a data analyst based in Centurion, South Africa, with a background in cloud support (AWS) and a passion for making data tell meaningful stories.
+I'm a data analyst based in Gauteng, South Africa, with a background in cloud support (AWS) and a passion for making data tell meaningful stories.
 
 I love digging into messy datasets, asking the right questions, and building dashboards that actually make sense to the people in the room.
 
