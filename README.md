@@ -43,7 +43,7 @@ End-to-end sales analysis for a fictional coffee brand. Explored transaction dat
 
 ---
 
-### 📺 BrightTV — Media & Viewership Analytics *(In Progress)*
+### 📺 BrightTV — Media & Viewership Analytics
 >MIRO• SQL(Databricks) • Excel • Looker Studio • 
 
 Analysing user profiles and viewership patterns for a streaming platform. Focused on audience behaviour, content performance, and retention trends.
